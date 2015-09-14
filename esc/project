@@ -1,0 +1,3 @@
+schematics bridge_a.sch bridge_b.sch bridge_c.sch mcu.sch
+output-name board
+elements-dir ../symbol
