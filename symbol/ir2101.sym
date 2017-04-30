@@ -1,0 +1,94 @@
+v 20130925 2
+B 300 0 500 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 700 300 700 1 0 0
+{
+T 220 520 5 5 0 0 0 0 1
+pintype=unknown
+T 295 670 9 5 1 1 0 0 1
+pinlabel=Vcc
+T 185 715 5 5 1 1 0 6 1
+pinnumber=1
+T 220 520 5 5 0 0 0 0 1
+pinseq=0
+}
+P 0 500 300 500 1 0 0
+{
+T 160 490 5 5 0 0 0 0 1
+pintype=unknown
+T 305 465 9 5 1 1 0 0 1
+pinlabel=HIN
+T 195 505 5 5 1 1 0 6 1
+pinnumber=2
+T 160 490 5 5 0 0 0 0 1
+pinseq=0
+}
+P 0 300 300 300 1 0 0
+{
+T 150 360 5 5 0 0 0 0 1
+pintype=unknown
+T 305 275 9 5 1 1 0 0 1
+pinlabel=LIN
+T 185 375 5 5 1 1 0 6 1
+pinnumber=3
+T 150 360 5 5 0 0 0 0 1
+pinseq=0
+}
+P 0 100 300 100 1 0 0
+{
+T 150 190 5 5 0 0 0 0 1
+pintype=unknown
+T 295 55 9 5 1 1 0 0 1
+pinlabel=COM
+T 185 205 5 5 1 1 0 6 1
+pinnumber=4
+T 150 190 5 5 0 0 0 0 1
+pinseq=0
+}
+P 1100 700 800 700 1 0 0
+{
+T 860 720 5 5 0 0 180 0 1
+pintype=unknown
+T 790 670 9 5 1 1 0 6 1
+pinlabel=Vb
+T 825 715 5 5 1 1 0 0 1
+pinnumber=8
+T 860 720 5 5 0 0 180 0 1
+pinseq=0
+}
+P 1100 500 800 500 1 0 0
+{
+T 860 560 5 5 0 0 180 0 1
+pintype=unknown
+T 775 475 9 5 1 1 0 6 1
+pinlabel=HO
+T 825 605 5 5 1 1 0 0 1
+pinnumber=7
+T 860 560 5 5 0 0 180 0 1
+pinseq=0
+}
+P 1100 300 800 300 1 0 0
+{
+T 860 390 5 5 0 0 180 0 1
+pintype=unknown
+T 780 290 9 5 1 1 0 6 1
+pinlabel=Vs
+T 825 435 5 5 1 1 0 0 1
+pinnumber=6
+T 860 390 5 5 0 0 180 0 1
+pinseq=0
+}
+P 1100 100 800 100 1 0 0
+{
+T 860 120 5 5 0 0 180 0 1
+pintype=unknown
+T 790 70 9 5 1 1 0 6 1
+pinlabel=LO
+T 825 115 5 5 1 1 0 0 1
+pinnumber=5
+T 860 120 5 5 0 0 180 0 1
+pinseq=0
+}
+T 550 960 8 10 0 0 0 0 1
+footprint=SO8
+T 600 1100 8 10 0 0 0 0 1
+refdes=U?
